@@ -58,6 +58,6 @@ This builds the app for production to the `build` folder.
 
 The app is ready for deployment to any static hosting service like:
 - Netlify
-- Vercel
+- Vercel😘
 - GitHub Pages
 - Firebase Hosting
